@@ -1,6 +1,8 @@
 # js-array-questiosn
 Find Highest and lowest and second Highest and second lowest Value from array
-const arr = [6,2,3,5,7,8,4]
+
+
+#const arr = [6,2,3,5,7,8,4]
 let swapValue = 0
 for(let i=0;i<arr.length;i++){
     for(let j=i+1;j<arr.length;j++){
